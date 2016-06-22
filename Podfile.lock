@@ -1,0 +1,23 @@
+PODS:
+  - Masonry (0.5.3)
+  - Realm (1.0.1):
+    - Realm/Headers (= 1.0.1)
+  - Realm/Headers (1.0.1)
+  - UITableView+FDTemplateLayoutCell (1.4)
+  - YYKit (1.0.7):
+    - YYKit/no-arc (= 1.0.7)
+  - YYKit/no-arc (1.0.7)
+
+DEPENDENCIES:
+  - Masonry (= 0.5.3)
+  - Realm
+  - UITableView+FDTemplateLayoutCell
+  - YYKit
+
+SPEC CHECKSUMS:
+  Masonry: 9f515466afe48632562342a40a1c224071a1a022
+  Realm: 2e15e39d35b08abb529e212ed5d8af107b5236c8
+  UITableView+FDTemplateLayoutCell: 234e1582bcc4e18461af91155123bb96538ed030
+  YYKit: 843d1b26e20b82c695790c9a89907eaa1e99907f
+
+COCOAPODS: 0.39.0
